@@ -13,7 +13,7 @@ export default {
 }
 </script>
 
-<style  lang="stylus" scoped>
+<style  scoped lang="stylus">
 #nav
   padding 30px
   a
